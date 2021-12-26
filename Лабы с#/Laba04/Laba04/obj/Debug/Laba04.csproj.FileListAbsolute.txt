@@ -1,0 +1,33 @@
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Laba04.exe.config
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Laba04.exe
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Laba04.pdb
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.OpenGl.dll
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.OpenGl.xml
+C:\Users\Lev\source\repos\Laba04\Laba04\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.csproj.AssemblyReference.cache
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.Form1.resources
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.Properties.Resources.resources
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.csproj.GenerateResource.cache
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.csproj.CoreCompileInputs.cache
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.exe
+C:\Users\Lev\source\repos\Laba04\Laba04\obj\Debug\Laba04.pdb
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Laba04.exe.config
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Laba04.exe
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Laba04.pdb
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.OpenGl.dll
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.OpenGl.xml
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.Form1.resources
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.Properties.Resources.resources
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.csproj.CopyComplete
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.exe
+C:\Users\Александр\Desktop\Лабы с#\Laba04\Laba04\obj\Debug\Laba04.pdb
